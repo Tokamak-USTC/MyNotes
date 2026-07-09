@@ -1,0 +1,9 @@
+{
+  "accentColor": "",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font",
+  "cssTheme": "Tokyo Night",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "excalidraw-match-obsidian-background"
+  ]
+}
